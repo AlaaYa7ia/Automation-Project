@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15653" started-at="2021-01-24T20:41:07Z" finished-at="2021-01-24T20:41:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15653" started-at="2021-01-24T20:41:07Z" finished-at="2021-01-24T20:41:22Z">
+      <class name="tests.basic.ShoppingEndToEnd">
+        <test-method status="PASS" signature="init()[pri:0, instance:tests.basic.ShoppingEndToEnd@6a396c1e]" name="init" is-config="true" duration-ms="8685" started-at="2021-01-24T20:41:07Z" finished-at="2021-01-24T20:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tests.basic.ShoppingEndToEnd@6a396c1e]" name="test" duration-ms="4238" started-at="2021-01-24T20:41:15Z" finished-at="2021-01-24T20:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.basic.ShoppingEndToEnd@6a396c1e]" name="tearDown" is-config="true" duration-ms="2714" started-at="2021-01-24T20:41:20Z" finished-at="2021-01-24T20:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.basic.ShoppingEndToEnd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
